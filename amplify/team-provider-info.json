@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-graphqlmicroservice-dev-180755-authRole",
+      "UnauthRoleArn": "arn:aws:iam::559959810010:role/amplify-graphqlmicroservice-dev-180755-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::559959810010:role/amplify-graphqlmicroservice-dev-180755-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-graphqlmicroservice-dev-180755-deployment",
+      "UnauthRoleName": "amplify-graphqlmicroservice-dev-180755-unauthRole",
+      "StackName": "amplify-graphqlmicroservice-dev-180755",
+      "StackId": "arn:aws:cloudformation:ap-south-1:559959810010:stack/amplify-graphqlmicroservice-dev-180755/d448f310-673d-11ed-b6e1-062da3834c98",
+      "AmplifyAppId": "d3i670rsgc3c97"
+    },
+    "categories": {
+      "api": {
+        "graphqlmicroservice": {}
+      }
+    }
+  }
+}
